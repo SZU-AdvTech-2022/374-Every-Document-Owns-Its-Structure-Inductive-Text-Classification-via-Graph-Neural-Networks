@@ -1,0 +1,6 @@
+@article{REPO-375,
+    author = "Zhang, Yufeng and Yu, Xueli and Cui, Zeyu and Wu, Shu and Wen, Zhongzhen and Wang, Liang",
+    journal = "arXiv preprint arXiv:2004.13826",
+    title = "{Every Document Owns Its Structure: Inductive Text Classification via Graph Neural Networks}",
+    year = "2020"
+}
